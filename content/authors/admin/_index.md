@@ -61,7 +61,7 @@ education:
 
 work:
   - position: Full Professor
-  company_name: Université Côte d'Azur / Laboratoire I3S
+    company_name: Université Côte d'Azur / Laboratoire I3S
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
