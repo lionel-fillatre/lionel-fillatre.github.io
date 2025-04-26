@@ -6,7 +6,25 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: indigo #emerald
+
+# # SEO
+# marketing:
+#   seo:
+#     site_type: Person
+#     local_business_type: ''
+#     org_name: ''
+#     description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+#     twitter: 'GetResearchDev'
+#   analytics:
+#     google_analytics: ''
+#     baidu_tongji: ''
+#     plausible: ''
+#     fathom: ''
+#     pirsch: ''
+#   verification:
+#     google: ''
+#     baidu: ''
 
 # SEO
 marketing:
@@ -14,17 +32,17 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Lionel Fillatre's personal website.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'data science'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
     google: ''
-    baidu: ''
+    baidu: ''    
 
 # Site header
 header:

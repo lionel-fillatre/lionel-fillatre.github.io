@@ -10,9 +10,9 @@ first_name: Lionel
 last_name: Fillatre
 
 # Status emoji
-status:
+#status:
 # icon: ☕️ :happy
- icon: :happy
+# icon:
 
 # Is this the primary user of the site?
 superuser: true
