@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: blue 
+  color: indigo 
 #emerald
 
 # # SEO
@@ -33,7 +33,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Lionel Fillatre's personal website.'
+    description: 'Lionel Fillatre''s personal website.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: 'data science'
