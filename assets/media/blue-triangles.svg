@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 4517 3000" style="enable-background:new 0 0 4517 3000;" xml:space="preserve">
+<g id="Layer_2">
+</g>
+<g id="Layer_1">
+	<g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="4517" height="3000">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="0" y="0" width="4517" height="3000" id="SVGID_1_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter);">
+				
+					<linearGradient id="SVGID_00000080184666865743820170000005577714320072471990_" gradientUnits="userSpaceOnUse" x1="2209.7678" y1="-2451.3225" x2="2273.9678" y2="2754.1716">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				<rect style="fill:url(#SVGID_00000080184666865743820170000005577714320072471990_);" width="4517" height="3000"/>
+			</g>
+		</mask>
+		<rect style="mask:url(#SVGID_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#0286CF;" width="4517" height="3000"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#102770;" points="3790.373,2451.637 3444.821,2606.904 3423.58,3000 
+			4517,3000 4517,2513.712 4159.246,2249.49 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#00478F;" points="3032.154,2506.903 2938.099,2813.225 3423.58,3000 
+			3790.373,2451.637 3563.406,2273.926 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#00478F;" points="3790.373,2451.637 4517,2513.712 4517,1365.308 
+			3680.529,2224.557 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#0067AF;" points="3790.373,2451.637 4517,1365.308 3095.133,2245.634 
+			3032.154,2506.903 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#0286CF;" points="1522.294,2676.482 0,1674.877 783.386,3000 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#102770;" points="783.386,3000 0,1674.877 0,3000 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#29C4FF;" points="0,1674.877 1522.294,2676.482 2742.633,2142.181 		
+			"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#19B4FD;" points="2742.633,2142.181 1522.294,2676.482 
+			3032.154,2506.903 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#0067AF;" points="3032.154,2506.903 1522.294,2676.482 783.386,3000 
+			1623.448,3000 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#003780;" points="3032.154,2506.903 1623.448,3000 3423.58,3000 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#0286CF;" points="3032.154,2506.903 4517,1365.308 2742.633,2142.181 
+					"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#29C4FF;" points="58.228,1583.227 1310.431,1389.936 
+			1650.668,1836.315 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#29C4FF;" points="1815.242,1865.135 1488.409,1386.7 
+			2328.187,1942.849 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#29C4FF;" points="2666.781,2021.782 3182.7,1804.592 
+			2228.442,1744.653 		"/>
+	</g>
+</g>
+</svg>
