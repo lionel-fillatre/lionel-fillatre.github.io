@@ -11,7 +11,8 @@ last_name: Fillatre
 
 # Status emoji
 status:
-  icon: ☕️
+# icon: ☕️ :happy
+ icon: :happy
 
 # Is this the primary user of the site?
 superuser: true
@@ -35,11 +36,11 @@ profiles:
     url: 'mailto:lionel.fillatre@univ-cotedazur.fr'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/lionel-fillatre/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.fr/citations?user=cKZdWvsAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-8152-1769
 
 interests:
   - Artificial Intelligence
@@ -64,24 +65,22 @@ work:
     company_name: Université Côte d'Azur / Laboratoire I3S
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2012-09-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Head of Data Science Engineering Training at Polytech Nice Sophia, Department in Applied Mathematics
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -96,32 +95,32 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      # - name: SQL
+      #   description: ''
+      #   percent: 40
+      #   icon: circle-stack
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
 languages:
   - name: English
-    percent: 100
-  - name: French
     percent: 90
+  - name: French
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
