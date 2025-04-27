@@ -1,7 +1,7 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: BioDeep
+summary: Réseau profond génératif médicalement explicable pour l'analyse de données cliniques
+date: 2024-03-01
 type: docs
 math: false
 tags:
