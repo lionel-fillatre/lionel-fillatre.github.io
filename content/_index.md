@@ -38,7 +38,9 @@ sections:
       subtitle: ''
       text: |-
         I'm a full professor at the Université Côte d'Azur. 
-        
+
+        Lionel Fillatre received the Dipl.-Ing. in decision and information engineering and the M.Sc. degree in systems optimization in 2001 and the Ph.D. degree systems optimization in 2004 from Troyes University of Technology (UTT), France. In 2005, he is an assistant professor at the UTT and he has a postdoctoral position in the computational department of Telecom Bretagne in 2006. From 2006 to 2007, he was an Associate Professor at Telecom Bretagne, Brest, France. From 2007 to 2012, he was an Associate Professor at the Systems Modelling and Dependability Laboratory, Troyes University of Technology. Since 2012, he is a full professor at the University Nice Sophia Antipolis in the I3S laboratory ("Laboratoire d'Informatique, Signaux et Systèmes de Sophia Antipolis"). His current research interests include machine learning, deep learning, statistical learning, data science, signal and image processing, and biological data processing.  
+
         Please reach out to collaborate 😃
     design:
       columns: '1'
