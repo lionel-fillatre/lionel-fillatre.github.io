@@ -156,4 +156,4 @@ languages:
 
 ## About Me
 
-Lionel Fillatre is a professor of data science. Her research interests include machine learning and deep learning.
+Lionel Fillatre is a professor of data science. His research interests include machine learning and deep learning.

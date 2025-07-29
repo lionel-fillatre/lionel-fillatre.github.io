@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Lionel Fillatres Academic Website
+title: "Lionel Fillatres Academic Website"
+description: "This is the personal website of Lionel Fillatre with some references on his research and teaching activities."
 # Website URL
 baseURL: 'https://github.com/lionel-fillatre/lionel-fillatre.github.io'
 
