@@ -1,7 +1,7 @@
 ---
 title: Learn Big Data Technologies
 summary: Spark, Hadoop and Data Analytics for huge amount of data
-date: "2025-07-29"
+date: 2025-07-29
 type: docs
 math: false
 tags:
