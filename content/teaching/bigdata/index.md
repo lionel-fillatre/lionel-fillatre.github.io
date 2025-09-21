@@ -30,5 +30,9 @@ SQL in Big Data
 
 Advanced Analytics 
 
+## Tools
+
+Docker
+
 
 
