@@ -1,6 +1,6 @@
 baseURL = 'https://lionel-fillatre.github.io/'
 languageCode = 'en-us'
-title = 'Lionel Fillatre Personal Website'
+title = "Lionel Fillatre's Personal Website"
 theme = 'ananke'
 
 [caches]
