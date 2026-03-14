@@ -1,7 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lionel-fillatre.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Project'
+title = 'Lionel Fillatre Personal Website'
+theme = 'ananke'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+theme = 'ananke'
