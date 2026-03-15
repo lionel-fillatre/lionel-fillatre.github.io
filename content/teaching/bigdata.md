@@ -2,7 +2,7 @@
 title = 'Big Data Technologies'
 +++
 
-What is Hadoop and Spark?
+What are Hadoop and Spark?
 
 <!--more-->
 

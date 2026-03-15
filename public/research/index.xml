@@ -9,11 +9,25 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interpretability</title>
-      <link>http://localhost:1313/research/datascience/</link>
+      <title>Deep Neural Network Compression</title>
+      <link>http://localhost:1313/research/compression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/datascience/</guid>
+      <guid>http://localhost:1313/research/compression/</guid>
+      <description>&lt;p&gt;How to compress neural network layers?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interpretability</title>
+      <link>http://localhost:1313/research/interpretability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/interpretability/</guid>
       <description>&lt;p&gt;How to make a wide neural network interpretable by design?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nonlinear Logistic Regression</title>
+      <link>http://localhost:1313/research/nonlinearlr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/nonlinearlr/</guid>
+      <description>&lt;p&gt;How to make a logistic regression more poweful with nonlinear features?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimal classification</title>
@@ -21,6 +35,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/optimal/</guid>
       <description>&lt;p&gt;How to design an optimal classifier?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prior shift</title>
+      <link>http://localhost:1313/research/priorshift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/priorshift/</guid>
+      <description>&lt;p&gt;How to deal with prior shift between training and testing data?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unsupervised Learning</title>
+      <link>http://localhost:1313/research/unsupervisedlearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/unsupervisedlearning/</guid>
+      <description>&lt;p&gt;How to classify data without labels?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

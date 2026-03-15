@@ -2,8 +2,6 @@
 title = 'Who am I?'
 +++
 
-Who am I?
-
 <!--more-->
 
 Lionel Fillatre is a professor in applied mathematics, computer science and data science. 

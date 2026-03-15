@@ -1,6 +1,5 @@
 +++
 title = 'PLICIA'
-draft = true
 +++
 
 ## i-Demo project

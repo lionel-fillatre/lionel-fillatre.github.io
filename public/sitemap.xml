@@ -8,19 +8,19 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-03-15T09:41:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
-    <lastmod>2026-03-15T09:41:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
-    <lastmod>2026-03-15T09:41:07+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/welcome/</loc>
     <lastmod>2026-03-14T19:14:14+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/toto_index/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2026-03-14T09:41:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2026-03-14T09:41:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2026-03-14T09:41:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2026-03-14T09:41:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teaching/bigdata/</loc>
@@ -31,14 +31,28 @@
   </url><url>
     <loc>http://localhost:1313/teaching/datascience/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/datascience/</loc>
+    <loc>http://localhost:1313/teaching/datavalorization/</loc>
+  </url><url>
+    <loc>http://localhost:1313/teaching/deeplearning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/compression/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/interpretability/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/nonlinearlr/</loc>
   </url><url>
     <loc>http://localhost:1313/research/optimal/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/plicia/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/research/priorshift/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/unsupervisedlearning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/colleagues/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/whoami/</loc>
   </url>
 </urlset>

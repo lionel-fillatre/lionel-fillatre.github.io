@@ -1,6 +1,5 @@
 +++
 title = 'BIODEEP'
-draft = true
 +++
 
 ## ANR Project

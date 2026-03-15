@@ -1,7 +1,6 @@
 +++
 date = '2026-03-15T09:41:07+01:00'
 title = 'About'
-description = "My colleagues and I"
 +++
 
 <!-- This is a note to myself -->

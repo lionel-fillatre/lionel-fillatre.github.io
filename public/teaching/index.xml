@@ -13,7 +13,7 @@
       <link>http://localhost:1313/teaching/bigdata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/bigdata/</guid>
-      <description>&lt;p&gt;What is Hadoop and Spark?&lt;/p&gt;</description>
+      <description>&lt;p&gt;What are Hadoop and Spark?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data Science</title>
@@ -21,6 +21,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/datascience/</guid>
       <description>&lt;p&gt;How to apply unsupervised learning in data science?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Valorizaton</title>
+      <link>http://localhost:1313/teaching/datavalorization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/datavalorization/</guid>
+      <description>&lt;p&gt;What are the main ways to process data?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/teaching/deeplearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/deeplearning/</guid>
+      <description>&lt;p&gt;What are deep neural networks?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

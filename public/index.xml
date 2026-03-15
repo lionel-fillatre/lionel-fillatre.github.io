@@ -16,18 +16,11 @@
       <description>&lt;p&gt;This is my new website !&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/toto_index/</link>
-      <pubDate>Sat, 14 Mar 2026 09:41:07 +0100</pubDate>
-      <guid>http://localhost:1313/about/toto_index/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Big Data Technologies</title>
       <link>http://localhost:1313/teaching/bigdata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/bigdata/</guid>
-      <description>&lt;p&gt;What is Hadoop and Spark?&lt;/p&gt;</description>
+      <description>&lt;p&gt;What are Hadoop and Spark?&lt;/p&gt;</description>
     </item>
     <item>
       <title>BIODEEP</title>
@@ -44,11 +37,39 @@
       <description>&lt;p&gt;How to apply unsupervised learning in data science?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Interpretability</title>
-      <link>http://localhost:1313/research/datascience/</link>
+      <title>Data Valorizaton</title>
+      <link>http://localhost:1313/teaching/datavalorization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/datascience/</guid>
+      <guid>http://localhost:1313/teaching/datavalorization/</guid>
+      <description>&lt;p&gt;What are the main ways to process data?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/teaching/deeplearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/deeplearning/</guid>
+      <description>&lt;p&gt;What are deep neural networks?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deep Neural Network Compression</title>
+      <link>http://localhost:1313/research/compression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/compression/</guid>
+      <description>&lt;p&gt;How to compress neural network layers?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interpretability</title>
+      <link>http://localhost:1313/research/interpretability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/interpretability/</guid>
       <description>&lt;p&gt;How to make a wide neural network interpretable by design?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nonlinear Logistic Regression</title>
+      <link>http://localhost:1313/research/nonlinearlr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/nonlinearlr/</guid>
+      <description>&lt;p&gt;How to make a logistic regression more poweful with nonlinear features?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimal classification</title>
@@ -63,6 +84,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/plicia/</guid>
       <description>&lt;h2 id=&#34;i-demo-project&#34;&gt;i-Demo project&lt;/h2&gt;&#xA;&lt;p&gt;How to score skin lesions?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prior shift</title>
+      <link>http://localhost:1313/research/priorshift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/priorshift/</guid>
+      <description>&lt;p&gt;How to deal with prior shift between training and testing data?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unsupervised Learning</title>
+      <link>http://localhost:1313/research/unsupervisedlearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/unsupervisedlearning/</guid>
+      <description>&lt;p&gt;How to classify data without labels?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who am I working with?</title>
+      <link>http://localhost:1313/about/colleagues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/colleagues/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Who am I?</title>
+      <link>http://localhost:1313/about/whoami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/whoami/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
