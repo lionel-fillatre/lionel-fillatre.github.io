@@ -6,6 +6,42 @@
     <description>Recent content in Home on Lionel Fillatre&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2026 19:14:14 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/post/welcome/</link>
+      <pubDate>Sat, 14 Mar 2026 19:14:14 +0100</pubDate>
+      <guid>http://localhost:1313/post/welcome/</guid>
+      <description>&lt;p&gt;This is my new website !&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Big Data Technologies</title>
+      <link>http://localhost:1313/teaching/bigdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/bigdata/</guid>
+      <description>&lt;p&gt;What is Hadoop and Spark?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BIODEEP</title>
+      <link>http://localhost:1313/projects/biodeep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/biodeep/</guid>
+      <description>&lt;h2 id=&#34;anr-project&#34;&gt;ANR Project&lt;/h2&gt;&#xA;&lt;p&gt;How to stratify patients into homogeneous groups based on biological variables?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/teaching/datascience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/datascience/</guid>
+      <description>&lt;p&gt;How to apply unsupervised learning in data science?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PLICIA</title>
+      <link>http://localhost:1313/projects/plicia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/plicia/</guid>
+      <description>&lt;h2 id=&#34;i-demo-project&#34;&gt;i-Demo project&lt;/h2&gt;&#xA;&lt;p&gt;How to score skin lesions?&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

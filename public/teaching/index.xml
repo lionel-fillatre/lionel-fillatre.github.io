@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Lionel Fillatre&#39;s Personal Website</title>
+    <link>http://localhost:1313/teaching/</link>
+    <description>Recent content in Teaching on Lionel Fillatre&#39;s Personal Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Big Data Technologies</title>
+      <link>http://localhost:1313/teaching/bigdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/bigdata/</guid>
+      <description>&lt;p&gt;What is Hadoop and Spark?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/teaching/datascience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/datascience/</guid>
+      <description>&lt;p&gt;How to apply unsupervised learning in data science?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,8 +2,44 @@ baseURL = 'https://lionel-fillatre.github.io/'
 languageCode = 'en-us'
 title = "Lionel Fillatre's Personal Website"
 theme = 'ananke'
+metaDataFormat = "toml"
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-theme = 'ananke'
+
+[params]
+  background_color_class = "bg-navy" # bg-dark-blue
+  custom_css = ["css/custom.css"]
+
+[params.ananke]
+  mainSections = ["post"]
+  show_recent_posts = false
+  recent_posts_number = 3
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Post"
+  url = "/post/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Teaching"
+  url = "/teaching/"
+  weight = 4
+
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
