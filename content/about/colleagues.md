@@ -21,7 +21,7 @@ Laurent Deruaz Pepin
 
 Matilde Gonzalez
 
-# My current PhD students
+# Current PhD students
 
 Wessim Omezzine
 
@@ -29,7 +29,7 @@ Younes Habbal
 
 Florin Baumann
 
-# My former PhD students
+# Former PhD students
 
 Antonio Soggia
 
@@ -47,7 +47,7 @@ Danny Schmitt
 
 Froso Effrosyni
 
-# My former interns
+# Former interns
 
 
 2024 : Younes HABBAL (M2), Tarik SOUFIANE (M1), Lauryne TOLLANT (M1) et Ahlam MESTOUI (M1)
