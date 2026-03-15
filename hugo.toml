@@ -14,7 +14,7 @@ metaDataFormat = "toml"
 
 [params.ananke]
   mainSections = ["post"]
-  show_recent_posts = false
+  show_recent_posts = true
   recent_posts_number = 3
 
 [menu]
