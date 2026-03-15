@@ -16,6 +16,13 @@
       <description>&lt;p&gt;This is my new website !&lt;/p&gt;</description>
     </item>
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/toto_index/</link>
+      <pubDate>Sat, 14 Mar 2026 09:41:07 +0100</pubDate>
+      <guid>http://localhost:1313/about/toto_index/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Big Data Technologies</title>
       <link>http://localhost:1313/teaching/bigdata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,6 +42,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/datascience/</guid>
       <description>&lt;p&gt;How to apply unsupervised learning in data science?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interpretability</title>
+      <link>http://localhost:1313/research/datascience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/datascience/</guid>
+      <description>&lt;p&gt;How to make a wide neural network interpretable by design?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Optimal classification</title>
+      <link>http://localhost:1313/research/optimal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/optimal/</guid>
+      <description>&lt;p&gt;How to design an optimal classifier?&lt;/p&gt;</description>
     </item>
     <item>
       <title>PLICIA</title>
