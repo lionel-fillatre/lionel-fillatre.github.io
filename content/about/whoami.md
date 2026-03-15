@@ -4,7 +4,7 @@ title = 'Who am I?'
 
 <!--more-->
 
-Lionel Fillatre is a professor in applied mathematics, computer science and data science. 
+Lionel Fillatre is a professor in applied mathematics, computer science, signal and image processing. 
 
 His research interests include machine learning and deep learning.
 
