@@ -1,117 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on Lionel Fillatre&#39;s Personal Website</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Lionel Fillatre&#39;s Personal Website</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 19:14:14 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome</title>
-      <link>http://localhost:1313/post/welcome/</link>
-      <pubDate>Sat, 14 Mar 2026 19:14:14 +0100</pubDate>
-      <guid>http://localhost:1313/post/welcome/</guid>
-      <description>&lt;p&gt;This is my new website !&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Big Data Technologies</title>
-      <link>http://localhost:1313/teaching/bigdata/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/bigdata/</guid>
-      <description>&lt;p&gt;What are Hadoop and Spark?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>BIODEEP</title>
-      <link>http://localhost:1313/projects/biodeep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/biodeep/</guid>
-      <description>&lt;h2 id=&#34;anr-project&#34;&gt;ANR Project&lt;/h2&gt;&#xA;&lt;p&gt;How to stratify patients into homogeneous groups based on biological variables?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Data Science</title>
-      <link>http://localhost:1313/teaching/datascience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/datascience/</guid>
-      <description>&lt;p&gt;How to apply unsupervised learning in data science?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Data Valorizaton</title>
-      <link>http://localhost:1313/teaching/datavalorization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/datavalorization/</guid>
-      <description>&lt;p&gt;What are the main ways to process data?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Deep Learning</title>
-      <link>http://localhost:1313/teaching/deeplearning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/deeplearning/</guid>
-      <description>&lt;p&gt;What are deep neural networks?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Deep Neural Network Compression</title>
-      <link>http://localhost:1313/research/compression/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/compression/</guid>
-      <description>&lt;p&gt;How to compress neural network layers?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Interpretability</title>
-      <link>http://localhost:1313/research/interpretability/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/interpretability/</guid>
-      <description>&lt;p&gt;How to make a wide neural network interpretable by design?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nonlinear Logistic Regression</title>
-      <link>http://localhost:1313/research/nonlinearlr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/nonlinearlr/</guid>
-      <description>&lt;p&gt;How to make a logistic regression more poweful with nonlinear features?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Optimal classification</title>
-      <link>http://localhost:1313/research/optimal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/optimal/</guid>
-      <description>&lt;p&gt;How to design an optimal classifier?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PLICIA</title>
-      <link>http://localhost:1313/projects/plicia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/plicia/</guid>
-      <description>&lt;h2 id=&#34;i-demo-project&#34;&gt;i-Demo project&lt;/h2&gt;&#xA;&lt;p&gt;How to score skin lesions?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Prior shift</title>
-      <link>http://localhost:1313/research/priorshift/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/priorshift/</guid>
-      <description>&lt;p&gt;How to deal with prior shift between training and testing data?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unsupervised Learning</title>
-      <link>http://localhost:1313/research/unsupervisedlearning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/unsupervisedlearning/</guid>
-      <description>&lt;p&gt;How to classify data without labels?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Who am I working with?</title>
-      <link>http://localhost:1313/about/colleagues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/colleagues/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Who am I?</title>
-      <link>http://localhost:1313/about/whoami/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/whoami/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Home on Lionel Fillatre&#39;s Personal Website</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in Home on Lionel Fillatre&#39;s Personal Website</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Mar 2026 19:14:14 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Welcome</title>
+				<link>http://localhost:1313/post/sujetstage2027/</link>
+				<pubDate>Sat, 14 Mar 2026 19:14:14 +0100</pubDate>
+				<guid>http://localhost:1313/post/sujetstage2027/</guid>
+				<description>&lt;p&gt;I am offering an M2-level internship project in spring 2027 on world models applied to tabular data.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Welcome</title>
+				<link>http://localhost:1313/post/welcome/</link>
+				<pubDate>Sat, 14 Mar 2026 19:14:14 +0100</pubDate>
+				<guid>http://localhost:1313/post/welcome/</guid>
+				<description>&lt;p&gt;This is my new website !&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Big Data Technologies</title>
+				<link>http://localhost:1313/teaching/bigdata/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/teaching/bigdata/</guid>
+				<description>&lt;p&gt;What are Hadoop and Spark?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>BIODEEP</title>
+				<link>http://localhost:1313/projects/biodeep/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/biodeep/</guid>
+				<description>&lt;h2 id=&#34;anr-project&#34;&gt;ANR Project&lt;/h2&gt;&#xA;&lt;p&gt;How to stratify patients into homogeneous groups based on biological variables?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Data Science</title>
+				<link>http://localhost:1313/teaching/datascience/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/teaching/datascience/</guid>
+				<description>&lt;p&gt;How to apply unsupervised learning in data science?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Data Valorizaton</title>
+				<link>http://localhost:1313/teaching/datavalorization/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/teaching/datavalorization/</guid>
+				<description>&lt;p&gt;What are the main ways to process data?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Deep Learning</title>
+				<link>http://localhost:1313/teaching/deeplearning/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/teaching/deeplearning/</guid>
+				<description>&lt;p&gt;What are deep neural networks?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Deep Neural Network Compression</title>
+				<link>http://localhost:1313/research/compression/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/compression/</guid>
+				<description>&lt;p&gt;How to compress neural network layers?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Interpretability</title>
+				<link>http://localhost:1313/research/interpretability/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/interpretability/</guid>
+				<description>&lt;p&gt;How to make a wide neural network interpretable by design?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Nonlinear Logistic Regression</title>
+				<link>http://localhost:1313/research/nonlinearlr/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/nonlinearlr/</guid>
+				<description>&lt;p&gt;How to make a logistic regression more poweful with nonlinear features?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Optimal classification</title>
+				<link>http://localhost:1313/research/optimal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/optimal/</guid>
+				<description>&lt;p&gt;How to design an optimal classifier?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>PLICIA</title>
+				<link>http://localhost:1313/projects/plicia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/plicia/</guid>
+				<description>&lt;h2 id=&#34;i-demo-project&#34;&gt;i-Demo project&lt;/h2&gt;&#xA;&lt;p&gt;How to score skin lesions?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Prior shift</title>
+				<link>http://localhost:1313/research/priorshift/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/priorshift/</guid>
+				<description>&lt;p&gt;How to deal with prior shift between training and testing data?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Unsupervised Learning</title>
+				<link>http://localhost:1313/research/unsupervisedlearning/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/unsupervisedlearning/</guid>
+				<description>&lt;p&gt;How to classify data without labels?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Who am I working with?</title>
+				<link>http://localhost:1313/about/colleagues/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/colleagues/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Who am I?</title>
+				<link>http://localhost:1313/about/whoami/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/whoami/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
