@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lionel-fillatre.github.io/sitemap.xml

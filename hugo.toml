@@ -5,6 +5,8 @@ metaDataFormat = "toml"
 
 theme = "ananke"
 
+enableRobotsTXT = true
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
@@ -47,3 +49,10 @@ theme = "ananke"
   weight = 6
 
 
+[outputs]
+  home = ['html', 'rss', 'robots']
+  page = ['html']
+  rss = ['rss']
+  section = ['html', 'rss']
+  taxonomy = ['html', 'rss']
+  term = ['html', 'rss']
