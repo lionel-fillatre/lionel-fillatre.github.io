@@ -1,6 +1,6 @@
 ---
-date: '2026-03-14T19:14:14+01:00'
-title: 'Welcome'
+date: '2026-11-06'
+title: 'Intership project Spring 2027'
 featured: true
 ---
 
