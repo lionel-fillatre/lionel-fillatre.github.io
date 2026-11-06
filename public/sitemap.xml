@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lionel-fillatre.github.io/</loc>
     <lastmod>2026-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/sujetstage2027/</loc>
+    <loc>https://lionel-fillatre.github.io/post/sujetstage2027/</loc>
     <lastmod>2026-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://lionel-fillatre.github.io/about/</loc>
     <lastmod>2026-03-15T09:41:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/welcome/</loc>
+    <loc>https://lionel-fillatre.github.io/post/welcome/</loc>
     <lastmod>2026-03-14T19:14:14+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://lionel-fillatre.github.io/post/</loc>
     <lastmod>2026-03-14T09:41:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://lionel-fillatre.github.io/projects/</loc>
     <lastmod>2026-03-14T09:41:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://lionel-fillatre.github.io/research/</loc>
     <lastmod>2026-03-14T09:41:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://lionel-fillatre.github.io/teaching/</loc>
     <lastmod>2026-03-14T09:41:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/teaching/bigdata/</loc>
+    <loc>https://lionel-fillatre.github.io/teaching/bigdata/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/biodeep/</loc>
+    <loc>https://lionel-fillatre.github.io/projects/biodeep/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lionel-fillatre.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/teaching/datascience/</loc>
+    <loc>https://lionel-fillatre.github.io/teaching/datascience/</loc>
   </url><url>
-    <loc>http://localhost:1313/teaching/datavalorization/</loc>
+    <loc>https://lionel-fillatre.github.io/teaching/datavalorization/</loc>
   </url><url>
-    <loc>http://localhost:1313/teaching/deeplearning/</loc>
+    <loc>https://lionel-fillatre.github.io/teaching/deeplearning/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/compression/</loc>
+    <loc>https://lionel-fillatre.github.io/research/compression/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/interpretability/</loc>
+    <loc>https://lionel-fillatre.github.io/research/interpretability/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/nonlinearlr/</loc>
+    <loc>https://lionel-fillatre.github.io/research/nonlinearlr/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/optimal/</loc>
+    <loc>https://lionel-fillatre.github.io/research/optimal/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/plicia/</loc>
+    <loc>https://lionel-fillatre.github.io/projects/plicia/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/priorshift/</loc>
+    <loc>https://lionel-fillatre.github.io/research/priorshift/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lionel-fillatre.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/unsupervisedlearning/</loc>
+    <loc>https://lionel-fillatre.github.io/research/unsupervisedlearning/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/colleagues/</loc>
+    <loc>https://lionel-fillatre.github.io/about/colleagues/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/whoami/</loc>
+    <loc>https://lionel-fillatre.github.io/about/whoami/</loc>
   </url>
 </urlset>

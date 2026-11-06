@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Lionel Fillatre&#39;s Personal Website</title>
-		<link>http://localhost:1313/post/</link>
+		<link>https://lionel-fillatre.github.io/post/</link>
 		<description>Recent content in Posts on Lionel Fillatre&#39;s Personal Website</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://lionel-fillatre.github.io/post/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Intership project Spring 2027</title>
-				<link>http://localhost:1313/post/sujetstage2027/</link>
+				<link>https://lionel-fillatre.github.io/post/sujetstage2027/</link>
 				<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/post/sujetstage2027/</guid>
+				<guid>https://lionel-fillatre.github.io/post/sujetstage2027/</guid>
 				<description>&lt;p&gt;I am offering an M2-level internship project in spring 2027 on world models applied to tabular data.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Welcome</title>
-				<link>http://localhost:1313/post/welcome/</link>
+				<link>https://lionel-fillatre.github.io/post/welcome/</link>
 				<pubDate>Sat, 14 Mar 2026 19:14:14 +0100</pubDate>
-				<guid>http://localhost:1313/post/welcome/</guid>
+				<guid>https://lionel-fillatre.github.io/post/welcome/</guid>
 				<description>&lt;p&gt;This is my new website !&lt;/p&gt;</description>
 			</item>
 	</channel>

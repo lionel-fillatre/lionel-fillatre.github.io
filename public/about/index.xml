@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>About on Lionel Fillatre&#39;s Personal Website</title>
-		<link>http://localhost:1313/about/</link>
+		<link>https://lionel-fillatre.github.io/about/</link>
 		<description>Recent content in About on Lionel Fillatre&#39;s Personal Website</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://lionel-fillatre.github.io/about/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Who am I working with?</title>
-				<link>http://localhost:1313/about/colleagues/</link>
+				<link>https://lionel-fillatre.github.io/about/colleagues/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/about/colleagues/</guid>
+				<guid>https://lionel-fillatre.github.io/about/colleagues/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Who am I?</title>
-				<link>http://localhost:1313/about/whoami/</link>
+				<link>https://lionel-fillatre.github.io/about/whoami/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/about/whoami/</guid>
+				<guid>https://lionel-fillatre.github.io/about/whoami/</guid>
 				<description></description>
 			</item>
 	</channel>
